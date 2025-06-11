@@ -1,4 +1,4 @@
-# VINCENT ARLEQUIN - PORTFOLIO
+# VINCENT J EVANS-ARLEQUIN - PORTFOLIO
 
 This repository contains a few projects that I've made and decided to make public.
 
